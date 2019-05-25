@@ -1,5 +1,5 @@
 # Portfolio
-    This project is my portfolio showcase only. Here is a github example demo for [herokudeploy](https://janakhpon.github.io/janakh.github.io)
+This project is my portfolio showcase only. Here is a github example demo for [herokudeploy](https://janakhpon.github.io/janakh.github.io)
 
 
 
