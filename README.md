@@ -1,5 +1,5 @@
 # Portfolio
-This project is my portfolio project and its contains every projects and programming language i have worked on so you can watch them here. Here is a github example demo for [herokudeploy](https://janakhpon.github.io/janakh.github.io)
+This project is my portfolio project and its contains every projects and programming language i have worked on so you can watch them here. Here is a github example demo for [Githubdeploy](https://janakhpon.github.io/janakh.github.io)
 
 
 
